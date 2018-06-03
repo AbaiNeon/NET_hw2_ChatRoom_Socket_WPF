@@ -1,0 +1,18 @@
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\bin\Debug\test_cons.exe.config
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\bin\Debug\test_cons.exe
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\bin\Debug\test_cons.pdb
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\obj\Debug\test_cons.csprojResolveAssemblyReference.cache
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\obj\Debug\test_cons.exe
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\obj\Debug\test_cons.pdb
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\bin\Debug\Newtonsoft.Json.dll
+C:\Users\ТогузбаевА\documents\visual studio 2017\Projects\test_cons\test_cons\bin\Debug\Newtonsoft.Json.xml
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\bin\Debug\test_cons.exe.config
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\bin\Debug\test_cons.exe
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\bin\Debug\test_cons.pdb
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\bin\Debug\Newtonsoft.Json.dll
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\bin\Debug\Newtonsoft.Json.xml
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\obj\Debug\test_cons.csprojResolveAssemblyReference.cache
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\obj\Debug\test_cons.csproj.CoreCompileInputs.cache
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\obj\Debug\test_cons.csproj.CopyComplete
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\obj\Debug\test_cons.exe
+E:\NET_hw2_ChatRoom_Socket_WPF\test_cons\test_cons\obj\Debug\test_cons.pdb
